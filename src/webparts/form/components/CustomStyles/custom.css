@@ -1,0 +1,25 @@
+
+
+div > .ql-container {
+  margin-top: 10px;
+  height: auto; 
+}
+
+div > .ql-toolbar {
+  display: block;
+  position: sticky !important; 
+  top: -10px !important;
+  z-index: 1001;
+ 
+ 
+ 
+}
+
+
+
+div > .ms-Dropdown:active  {
+  color: rgb(32, 31, 30);
+  border-color: red!important;
+}
+
+

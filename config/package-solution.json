@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "e-committee-form-client-side-solution",
+    "id": "eec28e9c-5983-4f55-a1b7-310691c42b8f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "eCommitteeForm description"
+      },
+      "longDescription": {
+        "default": "eCommitteeForm description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "e-committee-form Feature",
+        "description": "The feature that activates elements of the e-committee-form solution.",
+        "id": "3395f8ea-07f9-4110-8df2-a9405398511c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/xenwp-ucobank-ecommittee.sppkg"
+  }
+}
